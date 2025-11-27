@@ -50,5 +50,5 @@
 
 ### 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-логин/ваш-репозиторий.git
-cd ваш-репозиторий
+git clone https://github.com/skrudje/Laboratory-work-5
+cd *путь к репозиторию*
